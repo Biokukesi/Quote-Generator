@@ -17,6 +17,9 @@ body
 }
 .quote-container
 {
+   
+   position: relative;
+   left: 50px; 
     width: auto;
     max-width: 900px;
     padding: 20px 30px;
